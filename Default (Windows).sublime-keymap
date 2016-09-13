@@ -1,0 +1,16 @@
+[{
+    "keys": ["ctrl+shift+s"],
+    "command": "auto_save"
+}, {
+    "keys": ["f1"],
+    "command": "save"
+}, {
+    "keys": ["ctrl+v"],
+    "command": "paste_and_indent"
+}, {
+    "keys": ["f3"],
+    "command": "open_terminal"
+}, {
+    "keys": ["f2"],
+    "command": "prompt_select_workspace"
+}]

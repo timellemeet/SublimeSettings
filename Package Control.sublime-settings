@@ -2,32 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"auto-save",
-		"AutoFileName",
-		"Bootstrap 4 Snippets",
-		"BracketGuard",
-		"ClangAutoComplete",
-		"ColorPicker",
-		"Composer",
-		"CSS Extended Completions",
-		"DocBlockr",
-		"Drupal",
-		"ECT",
-		"Git",
-		"GitGutter",
-		"PHP-Twig",
-		"Sass",
-		"SFTP",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-coffee",
-		"SublimeLinter-jshint",
-		"SublimeLinter-php",
-		"SummitLinter",
-		"Syntax Highlighting for Sass",
-		"Terminal",
-		"Twig",
-		"WordHighlight"
 	],
 	"installed_packages":
 	[

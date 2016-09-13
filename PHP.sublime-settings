@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Dreamweaver (SL).tmTheme",
+	"extensions":
+	[
+		"inc",
+		"module",
+		"twig",
+		"php"
+	]
+}
