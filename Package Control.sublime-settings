@@ -1,9 +1,10 @@
 {
-    "bootstrapped": true,
-    "in_process_packages": [
-
+	"bootstrapped": true,
+	"in_process_packages":
+	[
 	],
-    "installed_packages": [
+	"installed_packages":
+	[
 		"auto-save",
 		"AutoFileName",
 		"Bootstrap 4 Snippets",
