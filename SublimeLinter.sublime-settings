@@ -20,11 +20,6 @@
                 "ignore": "",
                 "warnings": ""
             },
-            "htmlhint": {
-                "@disable": true,
-                "args": [],
-                "excludes": []
-            },
             "jshint": {
                 "@disable": false,
                 "args": [],
