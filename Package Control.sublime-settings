@@ -41,6 +41,8 @@
 		"TrailingSpaces",
 		"Trimmer",
 		"Twig",
+		"TypeScript",
+		"TypescriptCompletion",
 		"WordHighlight"
 	]
 }
